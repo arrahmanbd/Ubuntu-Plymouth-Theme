@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=ubuntu-metro-01
+Description=ubuntu-metro-01 bootsplash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ubuntu-metro-01
+ScriptFile=/usr/share/plymouth/themes/ubuntu-metro-01/ubuntu-metro-01.script
